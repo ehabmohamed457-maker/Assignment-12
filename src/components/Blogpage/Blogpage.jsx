@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../Navbar/Navbar.Jsx";
+import Navbar from "../Navbar/Navbar.jsx";
 import data from "../../data/posts.json";
 import { useState } from "react";
 import { useEffect } from "react";
