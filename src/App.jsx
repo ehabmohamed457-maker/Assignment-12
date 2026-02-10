@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "../node_modules/@fortawesome/fontawesome-free/css/all.min.css";
-import Navbar from "./components/Navbar/Navbar.Jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import DefultPage from "./components/Defultpage/DefultPage";
 import "./App.css";
